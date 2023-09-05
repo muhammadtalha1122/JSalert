@@ -1,0 +1,25 @@
+
+.alert{
+    padding: auto;
+    
+}
+.heading{
+ font-size: 40px;
+ text-align: center;
+ background-color: black;
+text-decoration: underline;
+ color: white  
+}
+button{
+    margin: auto;
+    display:block;
+background-color: rgb(134, 22, 22);
+color: white;
+border: 1px solid black; 
+width: 500px;
+border-radius: 30px;   
+text-align: center;
+}
+h1:hover{
+    cursor: pointer;
+}
